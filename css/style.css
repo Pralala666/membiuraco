@@ -385,7 +385,7 @@ footer .credit a {
 }
 
 /* Laptop */
-@media (min-widht: 1024px) and (max-widht: 1440px) {
+@media (max-widht: 992px) {
   html {
     font-size: 75%;
   }
@@ -414,7 +414,7 @@ footer .credit a {
   right: 0;
 }
 /* mobile phone */
-@media (max-widht: 767px) {
+@media (max-widht: 600px) {
   html {
     font-size: 55%;
   }
